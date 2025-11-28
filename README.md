@@ -22,7 +22,7 @@
 💻 Full-Stack Developer<br>Hi! I'm Abdullah, a passionate Full-Stack Web Developer and a Software Engineering student at Aptech. I specialize in both front-end and back-end development, crafting user-friendly and efficient web applications.</p>
 
 ###
-
+ 
 <h2 align="left">I code with</h2>
 
 ###
