@@ -19,7 +19,12 @@
 
 
   <p align="left">
-💻 Full-Stack Developer<br>Hi! I'm Abdullah, a passionate Full-Stack Web Developer and a Software Engineering student at Aptech. I specialize in both front-end and back-end development, crafting user-friendly and efficient web applications.</p>
+💻 Full-Stack Developer<br>
+Hi!
+I’m Abdullah, a dedicated Full-Stack Developer and a Software Engineering student at Aptech. I enjoy building modern, responsive, and user-friendly web and mobile applications. Among all my skills, .NET is my strongest and best skill, and I love developing secure, scalable, and high-performance applications using the .NET ecosystem.
+
+Along with .NET, I also work with Laravel, Flutter, and various front-end technologies to create complete and efficient digital solutions. I'm always learning new tools and improving my development workflow to build clean, functional, and impactful projects.
+</p>
 
 ###
  
