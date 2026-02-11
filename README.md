@@ -28,7 +28,19 @@ Along with .NET, I also work with Laravel, Flutter, and various front-end techno
 
 ###
 
-leetcode : https://leetcode.com/u/7g1rMdnqLS/
+<!-- LeetCode -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode"/>
+<img width="8"/>
+<a href="https://leetcode.com/u/7g1rMdnqLS/">LeetCode Profile</a>
+
+<br/><br/>
+
+<!-- Microsoft Learn -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="30" alt="Microsoft Learn"/>
+<img width="8"/>
+<a href="https://learn.microsoft.com/">Microsoft Learn Profile</a>
+
+<br/><br/>
  
 <h2 align="left">I code with</h2>
 
