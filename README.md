@@ -28,19 +28,24 @@ Along with .NET, I also work with Laravel, Flutter, and various front-end techno
 
 ###
 
+<h2 align="left">Profile</h2>
 
+###
+<div align="left">
 <!-- LeetCode -->
 <a href="https://leetcode.com/u/7g1rMdnqLS/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" alt="LeetCode"/>
   <sub>LeetCode</sub>
 </a>
 <img width="20"/>
 
 <!-- Microsoft Learn -->
 <a href="https://learn.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="30" alt="Microsoft Learn"/>
+  <img src="https://www.figma.com/community/file/1184536622571396226/microsoft-logo" height="40" alt="Microsoft Learn"/>
   <sub>Microsoft</sub>
 </a>
+
+</div>
  
 <h2 align="left">I code with</h2>
 
