@@ -42,6 +42,11 @@ Along with .NET, I also work with Laravel, Flutter, and various front-end techno
 <a href="https://learn.microsoft.com/en-us/users/abdullahshahid-0933/" target="_blank">
   <img src="https://img.icons8.com/color/200/microsoft.png" height="40" alt="Microsoft Learn"/>
 </a>
+<img width="20"/>
+<!-- portfolio -->
+<a href="https://abdullah2309a.netlify.app/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3481/3481437.png" height="40" alt="portfolio"/>
+</a>
 
 </div>
  
